@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Broadcast">
 
+        <receiver android:name=".MyReceiver"/>
 
         <activity
             android:name=".MainActivity"
